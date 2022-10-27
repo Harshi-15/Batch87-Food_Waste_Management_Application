@@ -8,7 +8,7 @@
 #include<malloc.h>
 #include<ctype.h>
 #include<string.h>
-#include "fwm_header.h"
+#include "../Header/fwm_header.h"
 
 ngo *start_n,*new_n,*ptr_n,*prev_n,*last_n;
 hotel *start_h,*new_h,*ptr_h,*prev_h,*last_h;

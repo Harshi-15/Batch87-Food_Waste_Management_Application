@@ -11,7 +11,7 @@
 #include<malloc.h>
 #include<ctype.h>
 
-#include "fwm_header.h"
+#include "../Header/fwm_header.h"
 
 /*********************************************************************************************
  *   *FUNCTION NAME	:main
